@@ -37,13 +37,13 @@ This course is intended to demonstrate foundational Python skills for working wi
 
 
 ## 📑 Main Topics 
-- [Web Scraping Lab](https://github.com/PramodRawat157/Python-Project-for-Data-Science---IBM-Data-Science/blob/main/1%20Web%20Scraping%20Lab.ipynb)
+- [Web Scraping Lab]
 
-- [Extracting Stock Data Using a Python Library](https://github.com/PramodRawat157/Python-Project-for-Data-Science---IBM-Data-Science/blob/main/2%20Extracting%20Stock%20Data%20Using%20a%20Python%20Library.ipynb)
+- [Extracting Stock Data Using a Python Library]
 
-- [Extracting Stock Data Using a Web Scraping](https://github.com/PramodRawat157/Python-Project-for-Data-Science---IBM-Data-Science/blob/main/2%20Extracting%20Stock%20Data%20Using%20a%20Python%20Library.ipynb)
+- [Extracting Stock Data Using a Web Scraping]
 
-- [ Final Project - Extracting and Visualizing Stock Data](https://github.com/PramodRawat157/Python-Project-for-Data-Science---IBM-Data-Science/blob/main/4%20Final%20Assignment%20-%20Extracting%20and%20Visualizing%20Stock%20Data.ipynb)
+- [ Final Project - Extracting and Visualizing Stock Data]
 
 
 
@@ -83,17 +83,6 @@ The following Python libraries were used throughout the certification: <br>
 <p align="middle">
  <img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DA0101EN-SkillsNetwork/labs/Module%203/images/IDSNlogo.png" width="300" alt="cognitiveclass.ai logo" />
 </p>  
-
-
-🏆 Certificates
-
-To verify the certificates, click the images to follow the links.
-
- <p align="middle">
-  <a href="https://coursera.org/share/6b9718f79369deb9885daaebecb6fcca"><img src="https://user-images.githubusercontent.com/110245477/218280654-168be872-6015-4e4c-90fd-6295e8456987.png" height="430"></a>
-  <a href="https://www.credly.com/badges/6343ee63-61f5-47e7-ba3d-8c6c3373e8c5/public_url"><img src="https://user-images.githubusercontent.com/110245477/218280631-08f32781-77f2-483c-9c37-3a0314a1e149.png" height="430"></a>
-</p>
-
 
 <img src="https://media.istockphoto.com/id/1331164793/vector/study-championship-logo-template-design.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=7QClXetCt90IySTsOVBWPzEqWL6TWxAwRQnFmhNNsbM=" width = '25' height = '25'/> Python Project for Data Science
 Issued by Coursera
